@@ -1,2 +1,5 @@
 zk:
   homepage: hello
+
+server:
+  port: 8081
